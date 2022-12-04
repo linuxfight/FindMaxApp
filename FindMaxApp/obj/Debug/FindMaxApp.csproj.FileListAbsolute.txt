@@ -1,0 +1,8 @@
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\bin\Debug\FindMaxApp.exe.config
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\bin\Debug\FindMaxApp.exe
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\bin\Debug\FindMaxApp.pdb
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.csproj.AssemblyReference.cache
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.csproj.CoreCompileInputs.cache
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.exe
+C:\Users\kiko1\source\repos\FindMaxApp\FindMaxApp\obj\Debug\FindMaxApp.pdb
